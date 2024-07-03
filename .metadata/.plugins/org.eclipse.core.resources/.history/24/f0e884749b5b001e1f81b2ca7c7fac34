@@ -1,0 +1,14 @@
+package equalsmethod;
+
+public class equals {
+	String car_name;
+	int car_price;
+	String car_color;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
